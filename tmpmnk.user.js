@@ -18,11 +18,7 @@ setInterval(() => {
     if (button) {
       button.click();
       console.log('Button clicked (left-controls)');
-    } else {
-      console.log('Button not found (left-controls)');
     }
-  } else {
-    console.log('Target div not found или текст не совпадает');
   }
 
   // 2. Проверка и клик по кнопке внутри блока "вы ещё слушаете?"
