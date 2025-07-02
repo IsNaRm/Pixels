@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         YouTube Music Auto Continue
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.01
 // @description  Автоматически продолжает воспроизведение в YouTube Music
 // @author       You
 // @match        https://music.youtube.com/*
