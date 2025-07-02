@@ -6,6 +6,8 @@
 // @author       You
 // @match        https://music.youtube.com/*
 // @grant        none
+// @updateURL    https://raw.githubusercontent.com/IsNaRm/Pixels/main/tmpmnk.user.js
+// @downloadURL  https://raw.githubusercontent.com/IsNaRm/Pixels/main/tmpmnk.user.js
 // ==/UserScript==
 
 setInterval(() => {
