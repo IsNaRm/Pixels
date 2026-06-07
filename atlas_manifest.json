@@ -1,0 +1,1112 @@
+{
+    "0x72/angel_idle_anim": {
+        "frame_h": 16,
+        "frame_w": 16,
+        "frames": 4,
+        "url": "/0x72_DungeonTilesetII_v1.7/frames/atlas/angel_idle_anim.png"
+    },
+    "0x72/angel_run_anim": {
+        "frame_h": 16,
+        "frame_w": 16,
+        "frames": 4,
+        "url": "/0x72_DungeonTilesetII_v1.7/frames/atlas/angel_run_anim.png"
+    },
+    "0x72/big_demon_idle_anim": {
+        "frame_h": 36,
+        "frame_w": 32,
+        "frames": 4,
+        "url": "/0x72_DungeonTilesetII_v1.7/frames/atlas/big_demon_idle_anim.png"
+    },
+    "0x72/big_demon_run_anim": {
+        "frame_h": 36,
+        "frame_w": 32,
+        "frames": 4,
+        "url": "/0x72_DungeonTilesetII_v1.7/frames/atlas/big_demon_run_anim.png"
+    },
+    "0x72/big_zombie_idle_anim": {
+        "frame_h": 36,
+        "frame_w": 32,
+        "frames": 4,
+        "url": "/0x72_DungeonTilesetII_v1.7/frames/atlas/big_zombie_idle_anim.png"
+    },
+    "0x72/big_zombie_run_anim": {
+        "frame_h": 36,
+        "frame_w": 32,
+        "frames": 4,
+        "url": "/0x72_DungeonTilesetII_v1.7/frames/atlas/big_zombie_run_anim.png"
+    },
+    "0x72/bomb": {
+        "frame_h": 16,
+        "frame_w": 16,
+        "frames": 3,
+        "url": "/0x72_DungeonTilesetII_v1.7/frames/atlas/bomb.png"
+    },
+    "0x72/chest_empty_open_anim": {
+        "frame_h": 16,
+        "frame_w": 16,
+        "frames": 3,
+        "url": "/0x72_DungeonTilesetII_v1.7/frames/atlas/chest_empty_open_anim.png"
+    },
+    "0x72/chest_full_open_anim": {
+        "frame_h": 16,
+        "frame_w": 16,
+        "frames": 3,
+        "url": "/0x72_DungeonTilesetII_v1.7/frames/atlas/chest_full_open_anim.png"
+    },
+    "0x72/chest_mimic_open_anim": {
+        "frame_h": 16,
+        "frame_w": 16,
+        "frames": 3,
+        "url": "/0x72_DungeonTilesetII_v1.7/frames/atlas/chest_mimic_open_anim.png"
+    },
+    "0x72/chort_idle_anim": {
+        "frame_h": 23,
+        "frame_w": 16,
+        "frames": 4,
+        "url": "/0x72_DungeonTilesetII_v1.7/frames/atlas/chort_idle_anim.png"
+    },
+    "0x72/chort_run_anim": {
+        "frame_h": 23,
+        "frame_w": 16,
+        "frames": 4,
+        "url": "/0x72_DungeonTilesetII_v1.7/frames/atlas/chort_run_anim.png"
+    },
+    "0x72/coin_anim": {
+        "frame_h": 7,
+        "frame_w": 6,
+        "frames": 4,
+        "url": "/0x72_DungeonTilesetII_v1.7/frames/atlas/coin_anim.png"
+    },
+    "0x72/doc_idle_anim": {
+        "frame_h": 23,
+        "frame_w": 16,
+        "frames": 4,
+        "url": "/0x72_DungeonTilesetII_v1.7/frames/atlas/doc_idle_anim.png"
+    },
+    "0x72/doc_run_anim": {
+        "frame_h": 23,
+        "frame_w": 16,
+        "frames": 4,
+        "url": "/0x72_DungeonTilesetII_v1.7/frames/atlas/doc_run_anim.png"
+    },
+    "0x72/dwarf_f_idle_anim": {
+        "frame_h": 28,
+        "frame_w": 16,
+        "frames": 4,
+        "url": "/0x72_DungeonTilesetII_v1.7/frames/atlas/dwarf_f_idle_anim.png"
+    },
+    "0x72/dwarf_f_run_anim": {
+        "frame_h": 28,
+        "frame_w": 16,
+        "frames": 4,
+        "url": "/0x72_DungeonTilesetII_v1.7/frames/atlas/dwarf_f_run_anim.png"
+    },
+    "0x72/dwarf_m_idle_anim": {
+        "frame_h": 28,
+        "frame_w": 16,
+        "frames": 4,
+        "url": "/0x72_DungeonTilesetII_v1.7/frames/atlas/dwarf_m_idle_anim.png"
+    },
+    "0x72/dwarf_m_run_anim": {
+        "frame_h": 28,
+        "frame_w": 16,
+        "frames": 4,
+        "url": "/0x72_DungeonTilesetII_v1.7/frames/atlas/dwarf_m_run_anim.png"
+    },
+    "0x72/elf_f_idle_anim": {
+        "frame_h": 28,
+        "frame_w": 16,
+        "frames": 4,
+        "url": "/0x72_DungeonTilesetII_v1.7/frames/atlas/elf_f_idle_anim.png"
+    },
+    "0x72/elf_f_run_anim": {
+        "frame_h": 28,
+        "frame_w": 16,
+        "frames": 4,
+        "url": "/0x72_DungeonTilesetII_v1.7/frames/atlas/elf_f_run_anim.png"
+    },
+    "0x72/elf_m_idle_anim": {
+        "frame_h": 28,
+        "frame_w": 16,
+        "frames": 4,
+        "url": "/0x72_DungeonTilesetII_v1.7/frames/atlas/elf_m_idle_anim.png"
+    },
+    "0x72/elf_m_run_anim": {
+        "frame_h": 28,
+        "frame_w": 16,
+        "frames": 4,
+        "url": "/0x72_DungeonTilesetII_v1.7/frames/atlas/elf_m_run_anim.png"
+    },
+    "0x72/floor_spikes_anim": {
+        "frame_h": 16,
+        "frame_w": 16,
+        "frames": 4,
+        "url": "/0x72_DungeonTilesetII_v1.7/frames/atlas/floor_spikes_anim.png"
+    },
+    "0x72/goblin_idle_anim": {
+        "frame_h": 16,
+        "frame_w": 16,
+        "frames": 4,
+        "url": "/0x72_DungeonTilesetII_v1.7/frames/atlas/goblin_idle_anim.png"
+    },
+    "0x72/goblin_run_anim": {
+        "frame_h": 16,
+        "frame_w": 16,
+        "frames": 4,
+        "url": "/0x72_DungeonTilesetII_v1.7/frames/atlas/goblin_run_anim.png"
+    },
+    "0x72/ice_zombie_anim": {
+        "frame_h": 16,
+        "frame_w": 16,
+        "frames": 4,
+        "url": "/0x72_DungeonTilesetII_v1.7/frames/atlas/ice_zombie_anim.png"
+    },
+    "0x72/imp_idle_anim": {
+        "frame_h": 16,
+        "frame_w": 16,
+        "frames": 4,
+        "url": "/0x72_DungeonTilesetII_v1.7/frames/atlas/imp_idle_anim.png"
+    },
+    "0x72/imp_run_anim": {
+        "frame_h": 16,
+        "frame_w": 16,
+        "frames": 4,
+        "url": "/0x72_DungeonTilesetII_v1.7/frames/atlas/imp_run_anim.png"
+    },
+    "0x72/knight_f_idle_anim": {
+        "frame_h": 28,
+        "frame_w": 16,
+        "frames": 4,
+        "url": "/0x72_DungeonTilesetII_v1.7/frames/atlas/knight_f_idle_anim.png"
+    },
+    "0x72/knight_f_run_anim": {
+        "frame_h": 28,
+        "frame_w": 16,
+        "frames": 4,
+        "url": "/0x72_DungeonTilesetII_v1.7/frames/atlas/knight_f_run_anim.png"
+    },
+    "0x72/knight_m_idle_anim": {
+        "frame_h": 28,
+        "frame_w": 16,
+        "frames": 4,
+        "url": "/0x72_DungeonTilesetII_v1.7/frames/atlas/knight_m_idle_anim.png"
+    },
+    "0x72/knight_m_run_anim": {
+        "frame_h": 28,
+        "frame_w": 16,
+        "frames": 4,
+        "url": "/0x72_DungeonTilesetII_v1.7/frames/atlas/knight_m_run_anim.png"
+    },
+    "0x72/lizard_f_idle_anim": {
+        "frame_h": 28,
+        "frame_w": 16,
+        "frames": 4,
+        "url": "/0x72_DungeonTilesetII_v1.7/frames/atlas/lizard_f_idle_anim.png"
+    },
+    "0x72/lizard_f_run_anim": {
+        "frame_h": 28,
+        "frame_w": 16,
+        "frames": 4,
+        "url": "/0x72_DungeonTilesetII_v1.7/frames/atlas/lizard_f_run_anim.png"
+    },
+    "0x72/lizard_m_idle_anim": {
+        "frame_h": 28,
+        "frame_w": 16,
+        "frames": 4,
+        "url": "/0x72_DungeonTilesetII_v1.7/frames/atlas/lizard_m_idle_anim.png"
+    },
+    "0x72/lizard_m_run_anim": {
+        "frame_h": 28,
+        "frame_w": 16,
+        "frames": 4,
+        "url": "/0x72_DungeonTilesetII_v1.7/frames/atlas/lizard_m_run_anim.png"
+    },
+    "0x72/masked_orc_idle_anim": {
+        "frame_h": 23,
+        "frame_w": 16,
+        "frames": 4,
+        "url": "/0x72_DungeonTilesetII_v1.7/frames/atlas/masked_orc_idle_anim.png"
+    },
+    "0x72/masked_orc_run_anim": {
+        "frame_h": 23,
+        "frame_w": 16,
+        "frames": 4,
+        "url": "/0x72_DungeonTilesetII_v1.7/frames/atlas/masked_orc_run_anim.png"
+    },
+    "0x72/muddy_anim": {
+        "frame_h": 16,
+        "frame_w": 16,
+        "frames": 4,
+        "url": "/0x72_DungeonTilesetII_v1.7/frames/atlas/muddy_anim.png"
+    },
+    "0x72/necromancer_anim": {
+        "frame_h": 23,
+        "frame_w": 16,
+        "frames": 4,
+        "url": "/0x72_DungeonTilesetII_v1.7/frames/atlas/necromancer_anim.png"
+    },
+    "0x72/ogre_idle_anim": {
+        "frame_h": 36,
+        "frame_w": 32,
+        "frames": 4,
+        "url": "/0x72_DungeonTilesetII_v1.7/frames/atlas/ogre_idle_anim.png"
+    },
+    "0x72/ogre_run_anim": {
+        "frame_h": 36,
+        "frame_w": 32,
+        "frames": 4,
+        "url": "/0x72_DungeonTilesetII_v1.7/frames/atlas/ogre_run_anim.png"
+    },
+    "0x72/orc_shaman_idle_anim": {
+        "frame_h": 23,
+        "frame_w": 16,
+        "frames": 4,
+        "url": "/0x72_DungeonTilesetII_v1.7/frames/atlas/orc_shaman_idle_anim.png"
+    },
+    "0x72/orc_shaman_run_anim": {
+        "frame_h": 23,
+        "frame_w": 16,
+        "frames": 4,
+        "url": "/0x72_DungeonTilesetII_v1.7/frames/atlas/orc_shaman_run_anim.png"
+    },
+    "0x72/orc_warrior_idle_anim": {
+        "frame_h": 23,
+        "frame_w": 16,
+        "frames": 4,
+        "url": "/0x72_DungeonTilesetII_v1.7/frames/atlas/orc_warrior_idle_anim.png"
+    },
+    "0x72/orc_warrior_run_anim": {
+        "frame_h": 23,
+        "frame_w": 16,
+        "frames": 4,
+        "url": "/0x72_DungeonTilesetII_v1.7/frames/atlas/orc_warrior_run_anim.png"
+    },
+    "0x72/pumpkin_dude_idle_anim": {
+        "frame_h": 23,
+        "frame_w": 16,
+        "frames": 4,
+        "url": "/0x72_DungeonTilesetII_v1.7/frames/atlas/pumpkin_dude_idle_anim.png"
+    },
+    "0x72/pumpkin_dude_run_anim": {
+        "frame_h": 23,
+        "frame_w": 16,
+        "frames": 4,
+        "url": "/0x72_DungeonTilesetII_v1.7/frames/atlas/pumpkin_dude_run_anim.png"
+    },
+    "0x72/skelet_idle_anim": {
+        "frame_h": 16,
+        "frame_w": 16,
+        "frames": 4,
+        "url": "/0x72_DungeonTilesetII_v1.7/frames/atlas/skelet_idle_anim.png"
+    },
+    "0x72/skelet_run_anim": {
+        "frame_h": 16,
+        "frame_w": 16,
+        "frames": 4,
+        "url": "/0x72_DungeonTilesetII_v1.7/frames/atlas/skelet_run_anim.png"
+    },
+    "0x72/slug_anim": {
+        "frame_h": 23,
+        "frame_w": 16,
+        "frames": 4,
+        "url": "/0x72_DungeonTilesetII_v1.7/frames/atlas/slug_anim.png"
+    },
+    "0x72/swampy_anim": {
+        "frame_h": 16,
+        "frame_w": 16,
+        "frames": 4,
+        "url": "/0x72_DungeonTilesetII_v1.7/frames/atlas/swampy_anim.png"
+    },
+    "0x72/tiny_slug_anim": {
+        "frame_h": 16,
+        "frame_w": 16,
+        "frames": 4,
+        "url": "/0x72_DungeonTilesetII_v1.7/frames/atlas/tiny_slug_anim.png"
+    },
+    "0x72/tiny_zombie_idle_anim": {
+        "frame_h": 16,
+        "frame_w": 16,
+        "frames": 4,
+        "url": "/0x72_DungeonTilesetII_v1.7/frames/atlas/tiny_zombie_idle_anim.png"
+    },
+    "0x72/tiny_zombie_run_anim": {
+        "frame_h": 16,
+        "frame_w": 16,
+        "frames": 4,
+        "url": "/0x72_DungeonTilesetII_v1.7/frames/atlas/tiny_zombie_run_anim.png"
+    },
+    "0x72/wall_fountain_basin_blue_anim": {
+        "frame_h": 16,
+        "frame_w": 16,
+        "frames": 3,
+        "url": "/0x72_DungeonTilesetII_v1.7/frames/atlas/wall_fountain_basin_blue_anim.png"
+    },
+    "0x72/wall_fountain_basin_red_anim": {
+        "frame_h": 16,
+        "frame_w": 16,
+        "frames": 3,
+        "url": "/0x72_DungeonTilesetII_v1.7/frames/atlas/wall_fountain_basin_red_anim.png"
+    },
+    "0x72/wall_fountain_mid_blue_anim": {
+        "frame_h": 16,
+        "frame_w": 16,
+        "frames": 3,
+        "url": "/0x72_DungeonTilesetII_v1.7/frames/atlas/wall_fountain_mid_blue_anim.png"
+    },
+    "0x72/wall_fountain_mid_red_anim": {
+        "frame_h": 16,
+        "frame_w": 16,
+        "frames": 3,
+        "url": "/0x72_DungeonTilesetII_v1.7/frames/atlas/wall_fountain_mid_red_anim.png"
+    },
+    "0x72/wizzard_f_idle_anim": {
+        "frame_h": 28,
+        "frame_w": 16,
+        "frames": 4,
+        "url": "/0x72_DungeonTilesetII_v1.7/frames/atlas/wizzard_f_idle_anim.png"
+    },
+    "0x72/wizzard_f_run_anim": {
+        "frame_h": 28,
+        "frame_w": 16,
+        "frames": 4,
+        "url": "/0x72_DungeonTilesetII_v1.7/frames/atlas/wizzard_f_run_anim.png"
+    },
+    "0x72/wizzard_m_idle_anim": {
+        "frame_h": 28,
+        "frame_w": 16,
+        "frames": 4,
+        "url": "/0x72_DungeonTilesetII_v1.7/frames/atlas/wizzard_m_idle_anim.png"
+    },
+    "0x72/wizzard_m_run_anim": {
+        "frame_h": 28,
+        "frame_w": 16,
+        "frames": 16,
+        "url": "/0x72_DungeonTilesetII_v1.7/frames/atlas/wizzard_m_run_anim.png"
+    },
+    "0x72/wogol_idle_anim": {
+        "frame_h": 23,
+        "frame_w": 16,
+        "frames": 4,
+        "url": "/0x72_DungeonTilesetII_v1.7/frames/atlas/wogol_idle_anim.png"
+    },
+    "0x72/wogol_run_anim": {
+        "frame_h": 23,
+        "frame_w": 16,
+        "frames": 4,
+        "url": "/0x72_DungeonTilesetII_v1.7/frames/atlas/wogol_run_anim.png"
+    },
+    "monsters/monster_01": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_01.png"
+    },
+    "monsters/monster_02": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_02.png"
+    },
+    "monsters/monster_03": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_03.png"
+    },
+    "monsters/monster_04": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_04.png"
+    },
+    "monsters/monster_05": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_05.png"
+    },
+    "monsters/monster_06": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_06.png"
+    },
+    "monsters/monster_07": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_07.png"
+    },
+    "monsters/monster_08": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_08.png"
+    },
+    "monsters/monster_09": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_09.png"
+    },
+    "monsters/monster_10": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_10.png"
+    },
+    "monsters/monster_100": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_100.png"
+    },
+    "monsters/monster_101": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_101.png"
+    },
+    "monsters/monster_102": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_102.png"
+    },
+    "monsters/monster_103": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_103.png"
+    },
+    "monsters/monster_104": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_104.png"
+    },
+    "monsters/monster_105": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_105.png"
+    },
+    "monsters/monster_106": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_106.png"
+    },
+    "monsters/monster_107": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_107.png"
+    },
+    "monsters/monster_108": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_108.png"
+    },
+    "monsters/monster_109": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_109.png"
+    },
+    "monsters/monster_11": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_11.png"
+    },
+    "monsters/monster_110": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_110.png"
+    },
+    "monsters/monster_12": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_12.png"
+    },
+    "monsters/monster_13": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_13.png"
+    },
+    "monsters/monster_14": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_14.png"
+    },
+    "monsters/monster_15": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_15.png"
+    },
+    "monsters/monster_16": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_16.png"
+    },
+    "monsters/monster_17": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_17.png"
+    },
+    "monsters/monster_18": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_18.png"
+    },
+    "monsters/monster_19": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_19.png"
+    },
+    "monsters/monster_20": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_20.png"
+    },
+    "monsters/monster_21": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_21.png"
+    },
+    "monsters/monster_22": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_22.png"
+    },
+    "monsters/monster_23": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_23.png"
+    },
+    "monsters/monster_24": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_24.png"
+    },
+    "monsters/monster_25": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_25.png"
+    },
+    "monsters/monster_26": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_26.png"
+    },
+    "monsters/monster_27": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_27.png"
+    },
+    "monsters/monster_28": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_28.png"
+    },
+    "monsters/monster_29": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_29.png"
+    },
+    "monsters/monster_30": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_30.png"
+    },
+    "monsters/monster_31": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_31.png"
+    },
+    "monsters/monster_32": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_32.png"
+    },
+    "monsters/monster_33": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_33.png"
+    },
+    "monsters/monster_34": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_34.png"
+    },
+    "monsters/monster_35": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_35.png"
+    },
+    "monsters/monster_36": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_36.png"
+    },
+    "monsters/monster_37": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_37.png"
+    },
+    "monsters/monster_38": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_38.png"
+    },
+    "monsters/monster_39": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_39.png"
+    },
+    "monsters/monster_40": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_40.png"
+    },
+    "monsters/monster_41": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_41.png"
+    },
+    "monsters/monster_42": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_42.png"
+    },
+    "monsters/monster_43": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_43.png"
+    },
+    "monsters/monster_44": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_44.png"
+    },
+    "monsters/monster_45": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_45.png"
+    },
+    "monsters/monster_46": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_46.png"
+    },
+    "monsters/monster_47": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_47.png"
+    },
+    "monsters/monster_48": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_48.png"
+    },
+    "monsters/monster_49": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_49.png"
+    },
+    "monsters/monster_50": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_50.png"
+    },
+    "monsters/monster_51": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_51.png"
+    },
+    "monsters/monster_52": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_52.png"
+    },
+    "monsters/monster_53": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_53.png"
+    },
+    "monsters/monster_54": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_54.png"
+    },
+    "monsters/monster_55": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_55.png"
+    },
+    "monsters/monster_56": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_56.png"
+    },
+    "monsters/monster_57": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_57.png"
+    },
+    "monsters/monster_58": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_58.png"
+    },
+    "monsters/monster_59": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_59.png"
+    },
+    "monsters/monster_60": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_60.png"
+    },
+    "monsters/monster_61": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_61.png"
+    },
+    "monsters/monster_62": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_62.png"
+    },
+    "monsters/monster_63": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_63.png"
+    },
+    "monsters/monster_64": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_64.png"
+    },
+    "monsters/monster_65": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_65.png"
+    },
+    "monsters/monster_66": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_66.png"
+    },
+    "monsters/monster_67": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_67.png"
+    },
+    "monsters/monster_68": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_68.png"
+    },
+    "monsters/monster_69": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_69.png"
+    },
+    "monsters/monster_70": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_70.png"
+    },
+    "monsters/monster_71": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_71.png"
+    },
+    "monsters/monster_72": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_72.png"
+    },
+    "monsters/monster_73": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_73.png"
+    },
+    "monsters/monster_74": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_74.png"
+    },
+    "monsters/monster_75": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_75.png"
+    },
+    "monsters/monster_76": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_76.png"
+    },
+    "monsters/monster_77": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_77.png"
+    },
+    "monsters/monster_78": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_78.png"
+    },
+    "monsters/monster_79": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_79.png"
+    },
+    "monsters/monster_80": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_80.png"
+    },
+    "monsters/monster_81": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_81.png"
+    },
+    "monsters/monster_82": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_82.png"
+    },
+    "monsters/monster_83": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_83.png"
+    },
+    "monsters/monster_84": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_84.png"
+    },
+    "monsters/monster_85": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_85.png"
+    },
+    "monsters/monster_86": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_86.png"
+    },
+    "monsters/monster_87": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_87.png"
+    },
+    "monsters/monster_88": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_88.png"
+    },
+    "monsters/monster_89": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_89.png"
+    },
+    "monsters/monster_90": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_90.png"
+    },
+    "monsters/monster_91": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_91.png"
+    },
+    "monsters/monster_92": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_92.png"
+    },
+    "monsters/monster_93": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_93.png"
+    },
+    "monsters/monster_94": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_94.png"
+    },
+    "monsters/monster_95": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_95.png"
+    },
+    "monsters/monster_96": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_96.png"
+    },
+    "monsters/monster_97": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_97.png"
+    },
+    "monsters/monster_98": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_98.png"
+    },
+    "monsters/monster_99": {
+        "frame_h": 64,
+        "frame_w": 64,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_99.png"
+    },
+    "monsters/monster_dragon_111": {
+        "frame_h": 96,
+        "frame_w": 96,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_dragon_111.png"
+    },
+    "monsters/monster_dragon_112": {
+        "frame_h": 96,
+        "frame_w": 96,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_dragon_112.png"
+    },
+    "monsters/monster_dragon_113": {
+        "frame_h": 96,
+        "frame_w": 96,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_dragon_113.png"
+    },
+    "monsters/monster_dragon_114": {
+        "frame_h": 96,
+        "frame_w": 96,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_dragon_114.png"
+    },
+    "monsters/monster_dragon_115": {
+        "frame_h": 96,
+        "frame_w": 96,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_dragon_115.png"
+    },
+    "monsters/monster_dragon_116": {
+        "frame_h": 96,
+        "frame_w": 96,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_dragon_116.png"
+    },
+    "monsters/monster_dragon_117": {
+        "frame_h": 96,
+        "frame_w": 96,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_dragon_117.png"
+    },
+    "monsters/monster_dragon_118": {
+        "frame_h": 128,
+        "frame_w": 128,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_dragon_118.png"
+    },
+    "monsters/monster_dragon_119": {
+        "frame_h": 128,
+        "frame_w": 128,
+        "frames": 3,
+        "url": "/monsters/atlas/monster_dragon_119.png"
+    }
+}
